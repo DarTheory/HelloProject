@@ -1,5 +1,6 @@
 abcd
 1234
+<<<<<<< HEAD
 A
 B
 C
